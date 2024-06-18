@@ -4,7 +4,8 @@ import tailwindcss from 'tailwindcss';
 
 export default defineConfig({
   plugins: [vue()],
-  base: process.env.NODE_ENV === 'production' ? '/my-portfolio/' : '/',
+  base: '/my-portfolio/',
+  // base: process.env.NODE_ENV === 'production' ? '/my-portfolio/' : '/',
   css: {
     postcss: {
       plugins: [tailwindcss],
