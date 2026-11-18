@@ -12,10 +12,10 @@
       <a href="https://github.com/purbahotles" target="_blank" class="text-gray-700 hover:text-black">
         <i class="fab fa-github fa-2x"></i>
       </a>
-      <a href="https://wa.me/+6282384313153" target="_blank" class="text-gray-700 hover:text-green-500">
+      <a href="https://wa.me/+6285159447307" target="_blank" class="text-gray-700 hover:text-green-500">
         <i class="fab fa-whatsapp fa-2x"></i>
       </a>
-      <a href="tel:+6285259447307" class="text-gray-700 hover:text-blue-500">
+      <a href="tel:+6285159447307" class="text-gray-700 hover:text-blue-500">
       <i class="fas fa-phone fa-2x mr-2"></i>
         <span class="mb-2">(+62) 851-5944-7307</span> 
       </a>
