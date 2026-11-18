@@ -41,7 +41,7 @@ const route = useRoute();
 const activeLinkClass = 'text-primary-dark'; // Define your active link class here
 
 const openWhatsApp = () => {
-  window.open('https://wa.me/+6282384313153', '_blank'); // Replace with your WhatsApp number
+  window.open('https://wa.me/+6285159447307', '_blank'); // Replace with your WhatsApp number
 }
 </script>
 
