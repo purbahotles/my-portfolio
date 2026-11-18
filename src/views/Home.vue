@@ -1,4 +1,3 @@
-```vue
 <template>
   <section class="min-h-[85vh] flex items-center justify-center px-5 py-12">
     <div class="w-full max-w-6xl mx-auto">
@@ -11,7 +10,7 @@
 
             <div class="relative bg-primary-light border border-primary-light rounded-2xl shadow-xl overflow-hidden">
               <img
-                src="../assets/photo-profile.svg"
+                src="../assets/photo-profile.png"
                 alt="Hotles Purba - Software Developer"
                 class="w-full h-auto object-cover"
               />
@@ -123,4 +122,3 @@ export default {
   },
 };
 </script>
-```

@@ -1,4 +1,3 @@
-```vue
 <template>
   <section>
     <!-- About Me & Early Career -->
@@ -280,4 +279,3 @@ export default {
   watch: {},
 };
 </script>
-```
