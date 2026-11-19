@@ -150,9 +150,11 @@
 
             <p>
               <strong>Other:</strong>
-              MEVN Stack, RESTful API, Cloudflare R2, JWT Authentication,
-              NoSQL Database, Input Validation, Error Handling.
+              MEVN Stack, RESTful API, SaaS Development, Payment Gateway Integration,
+              Cloudflare R2, JWT Authentication, NoSQL Database, Input Validation,
+              Error Handling.
             </p>
+
           </div>
         </div>
       </section>

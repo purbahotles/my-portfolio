@@ -193,6 +193,7 @@
                   <li>Quasar Framework</li>
                   <li>BootstrapVue</li>
                   <li>Jest</li>
+                  <li>Cypress</li>
                 </ul>
               </li>
 
@@ -211,6 +212,8 @@
               <li>React.js</li>
               <li>React Native</li>
               <li>Vite</li>
+              <li>jQuery</li>
+              <li>LESS</li>
               <li>Webpack</li>
               <li>SASS / SCSS</li>
               <li>Tailwind CSS</li>
@@ -230,14 +233,17 @@
             <ul class="text-primary opacity-75 space-y-1">
               <li>Node.js</li>
               <li>Express.js</li>
+              <li>NestJs</li>
               <li>PHP</li>
               <li>Laravel</li>
               <li>RESTful APIs</li>
+              <li>OAuth / JWT</li>
               <li>GraphQL</li>
               <li>Database Management</li>
               <li>SQL & NoSQL</li>
               <li>PostgreSQL</li>
               <li>MongoDB</li>
+              <li>MySql</li>
             </ul>
           </div>
 
@@ -255,6 +261,8 @@
               <li>Bitbucket</li>
               <li>Docker</li>
               <li>Kubernetes</li>
+              <li>SDLC Agile / Scrum</li>
+              <li>Unit Testing</li>
               <li>CI/CD Pipelines</li>
               <li>Webpack</li>
               <li>Vite</li>
@@ -263,6 +271,7 @@
               <li>Linux Server Management</li>
               <li>Nginx</li>
               <li>PM2</li>
+              <li>OOP, MVC/MVVM</li>
             </ul>
           </div>
 
