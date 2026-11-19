@@ -115,6 +115,48 @@
         </div>
       </section>
 
+
+      <section class="bg-primary-light p-8 m-5 border border-primary-light">
+        <h1 class="text-4xl text-center font-bold text-primary-dark">
+          Event Management Platform
+        </h1>
+
+        <div class="relative max-w-400 mt-5">
+          <img
+            src="../assets/img/momenta.png"
+            alt="Momenta Event Management Platform"
+            class="w-full h-auto opacity-90"
+          />
+
+          <div class="text-primary-dark mt-5">
+            <p><strong>Project Name:</strong> Momenta – Event Management Platform</p>
+
+            <p>
+              <strong>Description:</strong>
+              Full-stack web application for event management, visual editing,
+              guest management, and collaborative workspace.
+            </p>
+
+            <p>
+              <strong>Tech:</strong>
+              MongoDB, Express.js, Vue.js, Node.js, Vue Composition API,
+              Vue Router, Pinia.
+            </p>
+
+            <p>
+              <strong>Role:</strong>
+              Full-Stack Developer.
+            </p>
+
+            <p>
+              <strong>Other:</strong>
+              MEVN Stack, RESTful API, Cloudflare R2, JWT Authentication,
+              NoSQL Database, Input Validation, Error Handling.
+            </p>
+          </div>
+        </div>
+      </section>
+
     </section>
 </template>
 
