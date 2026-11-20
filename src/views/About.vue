@@ -272,6 +272,8 @@
               <li>Nginx</li>
               <li>PM2</li>
               <li>OOP, MVC/MVVM</li>
+              <li>WordPress Development</li>
+              <li>WordPress Theme & Plugin</li>
             </ul>
           </div>
 
